@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **mobilewholesaler.pro**
 
-- 🌱 I’m currently learning **React Native, Node js, postgresql**
+- 🌱 I’m currently learning **React Native, Node js, postgresql, Next.js, mongoose(database)**
 
-- 👯 I’m looking to collaborate on **opensource**
+- 👯 I’m looking to collaborate on **opensource project**
 
 - 👨‍💻 All of my projects are available at [https://www.freecodecamp.org/fccc7b11135-fbd8-45a1-ad10-da187ca4e3df](https://www.freecodecamp.org/fccc7b11135-fbd8-45a1-ad10-da187ca4e3df)
 
