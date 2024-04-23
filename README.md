@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Front End Development**
 
-- 📫 How to reach me **moleg7033@gmail.com**
+- 📫 How to reach me **usergotem31@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
