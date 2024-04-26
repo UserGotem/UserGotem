@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usergotem&label=Profile%20views&color=0e75b6&style=flat" alt="usergotem" /> </p>
 
-- 🔭 I’m currently working on **mobilewholesaler.pro**
+- 🔭 I’m currently working on **Database**
 
-- 🌱 I’m currently learning **React Native, Node js, postgresql, Next.js, mongoose(database)**
+- 🌱 I’m currently learning **React Native, Node js, postgresql, Next.js, mongoose(Database)**
 
 - 👯 I’m looking to collaborate on **opensource project**
 
