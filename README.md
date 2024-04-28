@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.freecodecamp.org/fccc7b11135-fbd8-45a1-ad10-da187ca4e3df](https://www.freecodecamp.org/fccc7b11135-fbd8-45a1-ad10-da187ca4e3df)
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **usergotem31@gmail.com**
 
