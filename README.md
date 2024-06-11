@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Database**
 
-- 🌱 I’m currently learning **React Native, Node js, postgresql, Next.js, mongoose(Database)**
+- 🌱 I’m currently learning **Php, mySQL**
 
 - 👯 I’m looking to collaborate on **opensource project**
 
